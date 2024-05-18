@@ -1,0 +1,1 @@
+# Farsi-Entity-Detection
